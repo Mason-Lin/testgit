@@ -1,2 +1,1 @@
-master readme
-conflict readme
+dev readme
