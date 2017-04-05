@@ -1,1 +1,1 @@
-test commit -am
+git test
