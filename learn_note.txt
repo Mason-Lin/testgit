@@ -1,0 +1,14 @@
+=todo=
+scrum
+
+
+=doing=
+design patterns
+git
+
+
+=done=
+https
+nosql
+
+
