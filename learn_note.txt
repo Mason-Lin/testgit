@@ -8,8 +8,12 @@ linux-SIGPIPE
 
 =doing=
 design patterns
-git
 
+git
+	rebase
+	revert 
+	bisect
+	what's blob
 
 =done=
 https
