@@ -1,10 +1,5 @@
 =todo=
-scrum
-ruby on rails
-python
 linux-SIGPIPE
-104
-
 
 =doing=
 design patterns
